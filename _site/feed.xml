@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-08T01:11:55-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jacques Guillory</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-07:00</published><updated>2016-02-24T22:48:00-07:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-09T01:16:35-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jacques Guillory</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">:iphone: Smash Wireless</title><link href="http://localhost:4000/smash-wireless/" rel="alternate" type="text/html" title=":iphone: Smash Wireless" /><published>2018-04-01T12:00:00-06:00</published><updated>2018-04-01T12:00:00-06:00</updated><id>http://localhost:4000/smash-wireless</id><content type="html" xml:base="http://localhost:4000/smash-wireless/">&lt;p&gt;This is a full stack app that is designed to streamline the management of corporate mobile plans.  Smash Wireless is a placeholder name for any cellular company such as AT&amp;amp;T or Verizon. The user of this platform,in this case, would be the manager of the corporate plans.  With this app, the manager can select all companies that have corporate plans with the mobile provider. From there, the manager can view specific plan information for that company, as well as current overall data usage.  They can also add new unique lines with specific data and device plans, or update existing plans.&lt;/p&gt;
+
+&lt;h3 id=&quot;technologies-used&quot;&gt;Technologies Used:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;MySql&lt;/li&gt;
+  &lt;li&gt;Node&lt;/li&gt;
+  &lt;li&gt;Express&lt;/li&gt;
+  &lt;li&gt;Sequelize&lt;/li&gt;
+  &lt;li&gt;Body-parser&lt;/li&gt;
+  &lt;li&gt;Path&lt;/li&gt;
+  &lt;li&gt;Handlebars&lt;/li&gt;
+  &lt;li&gt;Chance.js&lt;/li&gt;
+  &lt;li&gt;Chart.js&lt;/li&gt;
+  &lt;li&gt;Materialize&lt;/li&gt;
+  &lt;li&gt;Heroku&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stark-plateau-61369.herokuapp.com/&quot;&gt;App&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/jacquesguillory/smash-wireless&quot;&gt;Repo&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacques</name></author><summary type="html">This is a full stack app that is designed to streamline the management of corporate mobile plans. Smash Wireless is a placeholder name for any cellular company such as AT&amp;amp;T or Verizon. The user of this platform,in this case, would be the manager of the corporate plans. With this app, the manager can select all companies that have corporate plans with the mobile provider. From there, the manager can view specific plan information for that company, as well as current overall data usage. They can also add new unique lines with specific data and device plans, or update existing plans.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sharethisreview.com/wp-content/uploads/2018/04/bigstock-Set-Of-Tariff-Plans-Of-Mobile-226483453-1080x675.jpg" /></entry><entry><title type="html">:two_men_holding_hands: Friend Finder</title><link href="http://localhost:4000/friend-finder/" rel="alternate" type="text/html" title=":two_men_holding_hands: Friend Finder" /><published>2018-03-28T12:00:00-06:00</published><updated>2018-03-28T12:00:00-06:00</updated><id>http://localhost:4000/friend-finder</id><content type="html" xml:base="http://localhost:4000/friend-finder/">&lt;p&gt;This full-stack app will take in results from user surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootstrap&lt;/li&gt;
+  &lt;li&gt;JQuery&lt;/li&gt;
+  &lt;li&gt;AJAX&lt;/li&gt;
+  &lt;li&gt;Node&lt;/li&gt;
+  &lt;li&gt;Express&lt;/li&gt;
+  &lt;li&gt;Body-parser&lt;/li&gt;
+  &lt;li&gt;File-system&lt;/li&gt;
+  &lt;li&gt;Path&lt;/li&gt;
+  &lt;li&gt;Heroku&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://whispering-journey-81034.herokuapp.com/&quot;&gt;App&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/jacquesguillory/Friend-Finder&quot;&gt;Repo&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacques</name></author><summary type="html">This full-stack app will take in results from user surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cowleyfoundation.org/wordpress/wp-content/uploads/2017/11/friend-club-4.png" /></entry><entry><title type="html">:penguin: Memory Game: NHL Edition</title><link href="http://localhost:4000/memory-game/" rel="alternate" type="text/html" title=":penguin: Memory Game: NHL Edition" /><published>2018-03-25T22:10:00-06:00</published><updated>2018-03-25T22:10:00-06:00</updated><id>http://localhost:4000/memory-game</id><content type="html" xml:base="http://localhost:4000/memory-game/">&lt;p&gt;This is a single page app built for the purpose of practicing ReactJS.&lt;/p&gt;
+
+&lt;p&gt;Game Rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Before you are 12 cards each featuring a professional hockey player.&lt;/li&gt;
+  &lt;li&gt;Each time you click a card, all the cards will randomly shuffle.&lt;/li&gt;
+  &lt;li&gt;The objective is to correctly click all 12 unique cards without any repeats.&lt;/li&gt;
+  &lt;li&gt;If you click a card twice, the score is reset.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Technologies Used:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML/CSS&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacquesguillory/memory-game&quot;&gt;Repo&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://jacquesguillory.github.io/memory-game/&quot;&gt;App&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacques</name></author><summary type="html">This is a single page app built for the purpose of practicing ReactJS.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn-images-1.medium.com/max/2600/1*Q8UUjTZXvpAbj_T0E5Lp1Q.jpeg" /></entry><entry><title type="html">:notes: Giphy-API: Music Artists</title><link href="http://localhost:4000/giphy-api/" rel="alternate" type="text/html" title=":notes: Giphy-API: Music Artists" /><published>2018-02-14T12:00:00-07:00</published><updated>2018-02-14T12:00:00-07:00</updated><id>http://localhost:4000/giphy-api</id><content type="html" xml:base="http://localhost:4000/giphy-api/">&lt;p&gt;This app makes use of the Giphy API to search for music gifs (or any type of gif with the add button feature).&lt;/p&gt;
+
+&lt;p&gt;Click a music artist button to display the top ten gifs associated with that artist by relevance on the Giphy API. Once the gifs are loaded, click a gif to make it play. Click it again to make it stop.&lt;/p&gt;
+
+&lt;p&gt;Type in your own favorite artist in the box, and a new button for that artist will be added to the collection.&lt;/p&gt;
+
+&lt;p&gt;Technologies Used:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootstrap&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;JQuery&lt;/li&gt;
+  &lt;li&gt;Giphy API&lt;/li&gt;
+  &lt;li&gt;AJAX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacquesguillory.github.io/Giphy-API/&quot;&gt;Repo&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://jacquesguillory.github.io/Giphy-API/&quot;&gt;App&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacques</name></author><summary type="html">This app makes use of the Giphy API to search for music gifs (or any type of gif with the add button feature).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://pamis.org.uk/site/uploads/musicworkshop-image.jpg" /></entry><entry><title type="html">:house: Denver Executive Rentals</title><link href="http://localhost:4000/denver-executive-rentals/" rel="alternate" type="text/html" title=":house: Denver Executive Rentals" /><published>2018-01-12T12:00:00-07:00</published><updated>2018-01-12T12:00:00-07:00</updated><id>http://localhost:4000/denver-executive-rentals</id><content type="html" xml:base="http://localhost:4000/denver-executive-rentals/">&lt;p&gt;Denver Execute Rentals is full stack app that advertises apartments owned by a placeholder management company.  The app serves two purposes; to advertise properties, and to serve as a portal for tenants to complete actions such as paying rent or filing maintanence requests.&lt;/p&gt;
+
+&lt;p&gt;Technologies used:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootstrap&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Express&lt;/li&gt;
+  &lt;li&gt;MongoDB&lt;/li&gt;
+  &lt;li&gt;Google Maps API&lt;/li&gt;
+  &lt;li&gt;Mongoose&lt;/li&gt;
+  &lt;li&gt;AuthO&lt;/li&gt;
+  &lt;li&gt;Axios&lt;/li&gt;
+  &lt;li&gt;MomentJS&lt;/li&gt;
+  &lt;li&gt;Heroku&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://quiet-badlands-88728.herokuapp.com/Home&quot;&gt;App&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/shaunsnowden/denverexecutiverentals&quot;&gt;Repo&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacques</name></author><summary type="html">Denver Execute Rentals is full stack app that advertises apartments owned by a placeholder management company. The app serves two purposes; to advertise properties, and to serve as a portal for tenants to complete actions such as paying rent or filing maintanence requests.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wp.zillowstatic.com/naked-apartments/wp-content/uploads/sites/1/2011/07/avg_rent_NYC-188b38.jpg" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-07:00</published><updated>2016-02-24T22:48:00-07:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -328,25 +422,38 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-07:00</published><updated>2016-01-23T22:10:00-07:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Indigo Jekyll Theme</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo Jekyll Theme" /><published>2016-01-23T00:00:00-07:00</published><updated>2016-01-23T00:00:00-07:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;!-- ---
+title: &quot;:ramen: Indigo, minimalist jekyll theme&quot;
+layout: post
+date: 2016-01-23 22:10
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: &quot;This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&quot;
+category: project
+author: johndoe
+externalLink: false
+---
 
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
+![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-&lt;hr /&gt;
+Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
-&lt;p&gt;What has inside?&lt;/p&gt;
+---
 
-&lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+What has inside?
 
-&lt;hr /&gt;
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+---
+
+[Check it out](http://sergiokopplin.github.io/indigo/) here.
+If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues). --&gt;</content><author><name></name></author><summary type="html">&amp;lt;!– — title: “:ramen: Indigo, minimalist jekyll theme” layout: post date: 2016-01-23 22:10 tag: jekyll image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png headerImage: true projects: true hidden: true # don’t count this post in blog pagination description: “This is a simple and minimalist template for Jekyll for those who likes to eat noodles.” category: project author: johndoe externalLink: false —</summary></entry></feed>
